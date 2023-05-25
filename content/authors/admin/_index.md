@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Shemmy Ekadeli
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Shemmy
+last_name: Ekadeli
 
 # Status emoji
 status:

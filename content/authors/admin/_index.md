@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of ditigal marketer
+role: Professional Digital Marketer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,21 +22,21 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include digital marketer, mobile computing and programmingg matter(website developing)
+bio: My interests include digital marketing, mobile computing and programming (web development).
 
 # Interests to show in About widget
 interests:
   - Digital marketing
   - Programming
-  - Research on social livelyhood 
+  - Research on social livelihoods
 
 # Education to show in About widget
 education:
   courses:
-    - course: Bacholar of Arts in sociology
+    - course: Bacholar of Arts in Sociology
       institution: Catholic University of Eastern Africa
       year: 2022
-    - course: Computer programming
+    - course: Computer Programming
       institution: Start-up Lion School of Technology
       year: 2020
     - course: Social Work And Community Development
@@ -53,16 +53,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Hesrine1
     label: Follow me on Twitter
     display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+      header: false
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/shemmyhesrine
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Shemmy Lokwang is a professor of Computer Programming at the Start-up school of technology. Her research interests include digital marketing, mobile computing and programming matter.
+Shemmy Lokwang is a professional computer programmer at the Start-Up School of Technology. Her interests include digital marketing, mobile computing and programming.
 {style="text-align: justify;"}
